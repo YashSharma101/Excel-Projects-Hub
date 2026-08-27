@@ -33,7 +33,7 @@ Users can explore the dashboard by Order Mode and Gender, with additional filter
 Power BI Data Visualization Dashboard Design Business Analytics Customer Analytics
 
 🔗 Links
-📊 Live Dashboard: Add link
+📊 Live Dashboard: [(https://github.com/YashSharma101/Excel-Projects-Hub/blob/main/02-VivaCalif-Sales-Data-Analysis/Viva%20Calif%20Sales%20Data%20Analysis.xlsx)]
 
 🎯 Project Goal
 
